@@ -1,0 +1,14 @@
+D:\Works\02_DEV\Study\Dotnet IPC Server\IPCServer\IPCClient\bin\Debug\IPCClient.exe.config
+D:\Works\02_DEV\Study\Dotnet IPC Server\IPCServer\IPCClient\bin\Debug\IPCClient.exe
+D:\Works\02_DEV\Study\Dotnet IPC Server\IPCServer\IPCClient\bin\Debug\IPCClient.pdb
+D:\Works\02_DEV\Study\Dotnet IPC Server\IPCServer\IPCClient\bin\Debug\IPCSharedMemory.dll
+D:\Works\02_DEV\Study\Dotnet IPC Server\IPCServer\IPCClient\bin\Debug\IPCSharedMemory.pdb
+D:\Works\02_DEV\Study\Dotnet IPC Server\IPCServer\IPCClient\bin\Debug\IPCSharedMemory.dll.config
+D:\Works\02_DEV\Study\Dotnet IPC Server\IPCServer\IPCClient\obj\Debug\IPCClient.csprojAssemblyReference.cache
+D:\Works\02_DEV\Study\Dotnet IPC Server\IPCServer\IPCClient\obj\Debug\IPCClient.IPCClientForm.resources
+D:\Works\02_DEV\Study\Dotnet IPC Server\IPCServer\IPCClient\obj\Debug\IPCClient.Properties.Resources.resources
+D:\Works\02_DEV\Study\Dotnet IPC Server\IPCServer\IPCClient\obj\Debug\IPCClient.csproj.GenerateResource.cache
+D:\Works\02_DEV\Study\Dotnet IPC Server\IPCServer\IPCClient\obj\Debug\IPCClient.csproj.CoreCompileInputs.cache
+D:\Works\02_DEV\Study\Dotnet IPC Server\IPCServer\IPCClient\obj\Debug\IPCClient.csproj.CopyComplete
+D:\Works\02_DEV\Study\Dotnet IPC Server\IPCServer\IPCClient\obj\Debug\IPCClient.exe
+D:\Works\02_DEV\Study\Dotnet IPC Server\IPCServer\IPCClient\obj\Debug\IPCClient.pdb
